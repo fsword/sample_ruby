@@ -1,9 +1,7 @@
-sample_ruby
+sample\_ruby
 ===========
 
-This is a sample project for larrow. 
-
-It used to show how to use Larrow to:
+A sample project for Larrow. It used to show how to use Larrow to:
 
 * deploy the production on a cloud
 * run tests in an isolated environment
