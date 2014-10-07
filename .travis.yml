@@ -5,5 +5,5 @@ rvm:
 before_script:
     - ruby -v
 script:
-    - ruby -e 'puts :hello'
+    - rspec --format documentation --colour
 
