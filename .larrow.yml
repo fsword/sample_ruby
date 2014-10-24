@@ -1,0 +1,8 @@
+---
+image: img-mvipwe0y
+prepare:
+- gem source -r https://rubygems.org/
+- gem source -a http://ruby.taobao.org/
+- gem install rspec
+functional_test:
+- rspec --format documentation --colour
