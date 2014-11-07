@@ -1,5 +1,5 @@
 ---
-image: img-mvipwe0y
+image: img-7ut2n09c
 prepare:
 - gem source -r https://rubygems.org/
 - gem source -a http://ruby.taobao.org/
